@@ -21,3 +21,30 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+.idea/workspace.xml
+redis-sample.iml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml
+.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml
+.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml
+.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml
+.idea/libraries/Maven__log4j_log4j_1_2_17.xml
+.idea/libraries/Maven__com_alibaba_fastjson_1_2_49.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/findbugs-idea.xml
+.idea/copyright/profiles_settings.xml
+.idea/compiler.xml
+.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml
+.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml
+.idea/libraries/Maven__log4j_log4j_1_2_17.xml
+redis-sample.iml
+.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml
+.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml
+.idea/libraries/Maven__log4j_log4j_1_2_17.xml
+*.iml
+target/classes/log4j.xml
+.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml
+redis-sample.iml
